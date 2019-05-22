@@ -1,0 +1,6 @@
+﻿  Zad3.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+c:\users\darek\source\repos\zad3_wspolbiezne\zad3_wspolbiezne\zad3.cpp(38): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\darek\source\repos\zad3_wspolbiezne\zad3_wspolbiezne\zad3.cpp(33): warning C4101: 'old': unreferenced local variable
+c:\users\darek\source\repos\zad3_wspolbiezne\zad3_wspolbiezne\zad3.cpp(28): warning C4101: 'i': unreferenced local variable
+  Zad3_Wspolbiezne.vcxproj -> C:\Users\Darek\source\repos\Zad3_Wspolbiezne\Debug\Zad3_Wspolbiezne.exe

@@ -1,0 +1,3 @@
+﻿  Zad2.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+  Zad2_2.vcxproj -> C:\Users\Darek\source\repos\wspolbiezne_projekt_zad2\Debug\Zad2_2.exe
